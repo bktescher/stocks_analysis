@@ -10,7 +10,7 @@ After widening the scope of stocks for analysis, it was identified there were on
 ![Original 2017 Analysis](https://github.com/bktescher/stocks_analysis/blob/main/Resources/Original%20code%202017.png)
 ![Original 2018 Analysis](https://github.com/bktescher/stocks_analysis/blob/main/Resources/original%20code%202018.png)
 
-##Built for Efficiency
+## Built for Efficiency
 
 Following the completion of this process, our benefactors requested a refactoring of the code for efficiency.  Their plan is to use this tool for Mass scale stock analysis.  The results of our refactoring decreased the computation of our code by 0.4 seconds for each year analyzed. 
 ![2017 Code Refactored](https://github.com/bktescher/stocks_analysis/blob/main/Resources/VBA_Challenge_2017.png)
